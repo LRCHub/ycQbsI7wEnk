@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ワタシアクセント",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-17T05:14:52.890441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワタシアクセント",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/01_ワタシアクセント_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワタシアクセント",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/02_ワタシアクセント_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワタシアクセント",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_ワタシアクセント_≠ME.txt"
+    }
+  ]
+}
